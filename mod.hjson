@@ -1,0 +1,5 @@
+name: "uumatter-mod"
+author: "uumatter106"
+description: "A mod for mindustry."
+version: "0.1.0"
+minGameVersion: "123"
